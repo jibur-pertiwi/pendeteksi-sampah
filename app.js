@@ -1,7 +1,7 @@
 import { YOLO, annotate } from "@ultralytics/yolo";
 
 /**
- * YOLO26 browser inference template
+ * YOLO26 browser inference template 
  * ---------------------------------
  * Keep the default model in ./models/ so the app works from a GitHub Pages
  * project site (including repositories served below /<repository-name>/).
